@@ -72,3 +72,6 @@ plt.ylabel('x')
 plt.title('Temperature contour plot')
 plt.show
 
+"Probar utilizando t = 1e-4 y N = 61 (Solucion numericamente estable)"
+
+
